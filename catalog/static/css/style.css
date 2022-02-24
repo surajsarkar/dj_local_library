@@ -1,0 +1,27 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+.bd-ro{
+    border-radius: 12px;
+}
+
+
+li{
+    background-color: skyblue;
+    decoration: none;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: blue;
+    padding: 4px;
+    border-radius: 8px;
+}
+
+a{
+color:white;
+}
+a:hover{
+color: blue;
+}
